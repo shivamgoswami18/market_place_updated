@@ -1,0 +1,144 @@
+{
+  "logInLabel": {
+    "email": "E-post",
+    "password": "Passord"
+  },
+  "logInPageConstants": {
+    "logIntoYourAccount": "Velkommen tilbake!",
+    "enterYourEmailAndPasswordToLogIn": "Skriv inn detaljene dine for å logge inn.",
+    "doNotHaveAnAccount": "Har du ikke en konto?",
+    "forgotPassword": "Glemt passord?",
+    "adminAccessDenied": "Tilgang nektet. Kun brukere kan logge inn.",
+    "userRole": "bruker",
+    "logIn": "Logg inn nå",
+    "registerNow": "Registrer deg nå",
+    "rememberMe": "Husk meg",
+    "logo": "LOGO",
+    "copyWright": "© 2025. Alle rettigheter forbeholdt.",
+    "privacyPolicy": "Personvernpolicy",
+    "termsConditions": "Vilkår og betingelser",
+    "authPageImageAlt": "Illustrasjon av mennesker som håndhilser"
+  },
+  "registerLabel": {
+    "name": "Navn",
+    "email": "Brukernavn / E-post",
+    "password": "Opprett passord",
+    "confirmPassword": "Bekreft passord"
+  },
+  "registerPlaceholder": {
+    "password": "Opprett passord",
+    "confirmPassword": "Skriv inn passordet på nytt"
+  },
+  "registerPageConstants": {
+    "createYourAccount": "Opprett kontoen din",
+    "enterYourDetailsToCreateAnAccount": "Skriv inn detaljene dine for å registrere deg.",
+    "alreadyHaveAnAccount": "Har du allerede en konto?",
+    "registerNow": "Registrer deg nå",
+    "logIn": "Logginn nå"
+  },
+  "verifyOTPPageConstants": {
+    "enterCode": "Skriv inn kode",
+    "enterTheVerificationCodeSentToYourEmail": "Vi har sendt en verifiseringskode til abc*******@gmail.com. Skriv inn koden for å bekrefte deg selv og tilbakestille passordet ditt.",
+    "didNotReceiveTheCode": "Fikk du ikke koden?",
+    "resendCode": "Send på nytt nå",
+    "sendVerificationCode": "Send verifiseringskode",
+    "code": "Kode"
+  },
+  "forgotPasswordLabel": {
+    "email": "E-post"
+  },
+  "forgotPasswordPageConstants": {
+    "forgotYourPassword": "Har du glemt passordet ditt?",
+    "enterYourRegisteredEmail": "Skriv inn den registrerte e-posten din for å motta en verifikasjonskode for en sikker innlogging.",
+    "sendVerificationCode": "Send verifikasjonskode",
+    "doYouRememberYourPassword": "Husker du passordet ditt?",
+    "loginNow": "Logg inn nå"
+  },
+  "resetPasswordLabel": {
+    "password": "Passord",
+    "confirmPassword": "Bekreft passord"
+  },
+  "resetPasswordPageConstants": {
+    "resetYourPassword": "Tilbakestill passordet ditt",
+    "newPasswordValidation": "Det nye passordet ditt må være minst 8 tegn.",
+    "resetPassword": "Oppdater passord"
+  },
+  "passwordResetSuccessConstants": {
+    "passwordResetSuccessful": "Passord endret?",
+    "yourPasswordHasBeenSuccessfullyUpdated": "Passordet ditt har blitt oppdatert.",
+    "loginNow": "Logginn nå"
+  },
+  "homeHeaderConstants": {
+    "becomeAProfessional": "Bli en Profesjonell",
+    "postAProject": "Publiser et Prosjekt"
+  },
+  "homePageConstants": {
+    "becomeAProfessional": "Bli en Profesjonell",
+    "postAProjectFree": "Publiser et Prosjekt - Det er Gratis",
+    "findTrustedProfessionals": "Finn Pålidelige Fagfolk for Ethvert Hjemmeprosjekt",
+    "projectDescription": "Beskriv prosjektet ditt i noen få steg og få tilbud fra kvalifiserte fagfolk i ditt område. Det er helt gratis og uforpliktende.",
+    "satisfiedClients": "Fornøyde kunder",
+    "rating": "Vurdering",
+    "heroSectionMenImageAlt": "Profesjonell entreprenør som arbeider med hjemmeprosjekt",
+    "heroSectionShapeImageAlt": "Dekorativt formelement",
+    "howItWorks": "Slik Fungerer Det",
+    "describeYourProject": "Beskriv Prosjektet Ditt",
+    "describeYourProjectDescription": "Fortell oss hva du trenger hjelp med - fra snekkerarbeid til rengjøring, renoveringer, reparasjoner og mer.",
+    "getOffersFromProfessionals": "Få Tilbud Fra Fagfolk",
+    "getOffersFromProfessionalsDescription": "Kvalifiserte og verifiserte bedrifter vil gjennomgå prosjektet ditt og sende deg tilbud.",
+    "chooseTheRightProfessional": "Velg Riktig Fagperson",
+    "chooseTheRightProfessionalDescription": "Sammenlign pris, vurderinger og erfaring. Chat direkte og ansett den som passer dine behov.",
+    "whatDoYouNeedForYourHelp": "Hva trenger du hjelp med?",
+    "popularServices": "Populære Tjenester",
+    "popularServicesDescription": "Skal du starte på et stort prosjekt eller en liten oppgave? Publiser prosjektet og få tilbud fra relevante bedrifter og håndverkere - eller bruk søkefunksjonen for å finne riktig bedrift for deg!",
+    "whyUseOurPlatform": "Hvorfor Bruke Vår Plattform?",
+    "findTheRightBusinessForYourProject": "Finn riktig bedrift for prosjektet ditt!",
+    "verifiedProfessionals": "Verifiserte Fagfolk",
+    "compareOffersEasily": "Sammenlign Tilbud Enkelt",
+    "freeAndNonBinding": "Gratis & Uforpliktende",
+    "secureCommunication": "Sikker Kommunikasjon",
+    "findBusinesses": "Finn Bedrifter",
+    "whyUseOurPlatformMenImageAlt": "Bygningsarbeider med verktøy",
+    "whyUseOurPlatformMenImageLeftShapeAlt": "Dekorativt formelement til venstre",
+    "whyUseOurPlatformMenImageRightShapeAlt": "Dekorativt formelement til høyre",
+    "whatCustomersSay": "Hva Kunder Sier",
+    "whatCustomersSayDescription": "Skal du starte på et stort prosjekt eller en liten oppgave? Publiser prosjektet og få tilbud fra relevante bedrifter og håndverkere - eller bruk søkefunksjonen for å finne riktig bedrift for deg!",
+    "areYouAProfessional": "Er Du en Profesjonell?",
+    "getNewCustomersEveryDay": "Få Nye Kunder Hver Dag.",
+    "professionalBannerDescription": "Tilby tjenestene dine, søk på relevante prosjekter, og voks virksomheten din med kvalifiserte ledetråder.",
+    "registerAsAProfessional": "Registrer Deg som Profesjonell",
+    "professionalBannerMenImageAlt": "Profesjonell arbeider i sikkerhetsutstyr",
+    "professionalBannerShapeImageAlt": "Dekorative bølgelinjer",
+    "frequentlyAskedQuestions": "Ofte Stilte Spørsmål",
+    "inspirationGoodAdviceAndNews": "Inspirasjon, Gode Råd og Nyheter"
+  },
+  "validation": {
+    "required": "{{field}} er påkrevd.",
+    "format": "{{field}} er ugyldig.",
+    "placeholder": "Skriv inn {{field}}",
+    "passwordMatch": "Passordene samsvarer ikke"
+  },
+  "dashboardPageConstants": {
+    "welcome": "Velkommen",
+    "footerCopyright": "© {{year}} Prosjektmarkedet. Alle rettigheter forbeholdt."
+  },
+  "sidebar": {
+    "dashboard": "Dashbord",
+    "profile": "Profil",
+    "settings": "Innstillinger",
+    "logout": "Logg ut"
+  },
+  "dashboardHeaderCard": {
+    "headerCardTitleActiveProjects": "Aktive prosjekter",
+    "headerCardTitleTotalOffers": "Totalt antall tilbud",
+    "headerCardTitleCompleted": "Fullført"
+  },
+  "dashboardCardConstants": {
+    "dashboardNewProjectButtonText": "Publiser nytt prosjekt",
+    "dashboardCardDatePosted": "Postet:",
+    "dashboardCardButtonText": "Se detaljer",
+    "dashboardTitleActiveProjects": "Aktive prosjekter",
+    "dashboardCardNoActiveProject": "Ingen aktive prosjekter",
+    "dashboardNoProjectImageAlt": "Legg til prosjektbilde"
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "logInLabel": {
+    "email": "Email",
+    "password": "Password"
+  },
+  "logInPageConstants": {
+    "logIntoYourAccount": "Welcome Back!",
+    "enterYourEmailAndPasswordToLogIn": "Enter your details to login.",
+    "doNotHaveAnAccount": "Don't have an account?",
+    "forgotPassword": "Forgot Password?",
+    "adminAccessDenied": "Access denied. Only users can login.",
+    "userRole": "user",
+    "logIn": "Login Now",
+    "registerNow": "Register Now",
+    "rememberMe": "Remember Me",
+    "logo": "LOGO",
+    "copyWright": "© 2025. All Rights Reserved.",
+    "privacyPolicy": "Privacy Policy",
+    "termsConditions": "Terms & Conditions",
+    "authPageImageAlt": "Illustration of people shaking hands"
+  },
+  "registerLabel": {
+    "name": "Name",
+    "email": "Username / Email",
+    "password": "Create Password",
+    "confirmPassword": "Confirm Password"
+  },
+  "registerPageConstants": {
+    "createYourAccount": "Create Your Account",
+    "enterYourDetailsToCreateAnAccount": "Enter your details to register yourself.",
+    "alreadyHaveAnAccount": "Already have an account?",
+    "registerNow": "Register now",
+    "logIn": "Login now"
+  },
+  "verifyOTPPageConstants": {
+    "enterCode": "Verify Yourself",
+    "enterTheVerificationCodeSentToYourEmail": "We have sent verification code on abc*******@gmail.com. Enter the code and verify yourself to reset your password.",
+    "didNotReceiveTheCode": "Didn't get a code yet?",
+    "resendCode": "Re-send Now",
+    "sendVerificationCode": "Send Verification Code",
+    "code": "Code"
+  },
+  "forgotPasswordLabel": {
+    "email": "Email"
+  },
+  "forgotPasswordPageConstants": {
+    "forgotYourPassword": "Forgot your password?",
+    "enterYourRegisteredEmail": "Enter your registered email to receive a verification code for a secure login.",
+    "sendVerificationCode": "Send Verification Code",
+    "doYouRememberYourPassword": "Do you remember your password?",
+    "loginNow": "Login Now"
+  },
+  "resetPasswordLabel": {
+    "password": "Password",
+    "confirmPassword": "Confirm Password"
+  },
+  "registerPlaceholder": {
+    "password": "Create Password",
+    "confirmPassword": "Re-enter Password"
+  },
+  "resetPasswordPageConstants": {
+    "resetYourPassword": "Reset Your Password",
+    "newPasswordValidation": "Your new password must be atleast 8 characters.",
+    "resetPassword": "Update Password"
+  },
+  "passwordResetSuccessConstants": {
+    "passwordResetSuccessful": "Password Changed?",
+    "yourPasswordHasBeenSuccessfullyUpdated": "Your account password has been updated successfully.",
+    "loginNow": "Login Now"
+  },
+  "homeHeaderConstants": {
+    "becomeAProfessional": "Become a Professional",
+    "postAProject": "Post a Project"
+  },
+  "homePageConstants": {
+    "becomeAProfessional": "Become a Professional",
+    "postAProjectFree": "Post a Project - It's Free",
+    "findTrustedProfessionals": "Find Trusted Professionals for Any Home Project",
+    "projectDescription": "Describe your project in a few steps and get offers from qualified professionals in your area. It's completely free and non-binding.",
+    "satisfiedClients": "Satisfied clients",
+    "rating": "Rating",
+    "heroSectionMenImageAlt": "Professional contractor working on home project",
+    "heroSectionShapeImageAlt": "Decorative shape element",
+    "howItWorks": "How It Works",
+    "describeYourProject": "Describe Your Project",
+    "describeYourProjectDescription": "Tell us what you need help with - from carpentry to cleaning, renovations, repairs, and more.",
+    "getOffersFromProfessionals": "Get Offers From Professionals",
+    "getOffersFromProfessionalsDescription": "Qualified and verified businesses will review your project and send you offers.",
+    "chooseTheRightProfessional": "Choose the Right Professional",
+    "chooseTheRightProfessionalDescription": "Compare price, ratings, and experience. Chat directly and hire the one that fits your needs.",
+    "whatDoYouNeedForYourHelp": "What do you need for your help?",
+    "popularServices": "Popular Services",
+    "popularServicesDescription": "Are you going to get started on a big project or a small mission? Post the project and get offers from relevant companies and craftsmen - or use the search feature to find the right business for you!",
+    "whyUseOurPlatform": "Why Use Our Platform?",
+    "findTheRightBusinessForYourProject": "Find the right business for your project!",
+    "verifiedProfessionals": "Verified Professionals",
+    "compareOffersEasily": "Compare Offers Easily",
+    "freeAndNonBinding": "Free & Non-Binding",
+    "secureCommunication": "Secure Communication",
+    "findBusinesses": "Find Businesses",
+    "whyUseOurPlatformMenImageAlt": "Construction worker with tools",
+    "whyUseOurPlatformMenImageLeftShapeAlt": "Decorative shape element on the left",
+    "whyUseOurPlatformMenImageRightShapeAlt": "Decorative shape element on the right",
+    "whatCustomersSay": "What Customers Say",
+    "whatCustomersSayDescription": "Are you going to get started on a big project or a small mission? Post the project and get offers from relevant companies and craftsmen - or use the search feature to find the right business for you!",
+    "areYouAProfessional": "Are You a Professional?",
+    "getNewCustomersEveryDay": "Get New Customers Every Day.",
+    "professionalBannerDescription": "Offer your services, apply for relevant projects, and grow your business with qualified leads.",
+    "registerAsAProfessional": "Register as a Professional",
+    "professionalBannerMenImageAlt": "Professional worker in safety gear",
+    "professionalBannerShapeImageAlt": "Decorative wavy lines",
+    "frequentlyAskedQuestions": "Frequently Asked Questions",
+    "inspirationGoodAdviceAndNews": "Inspiration, Good Advice and News"
+  },
+  "validation": {
+    "required": "{{field}} is required.",
+    "format": "{{field}} is invalid.",
+    "placeholder": "Enter {{field}}",
+    "passwordMatch": "Passwords do not match"
+  },
+  "dashboardPageConstants": {
+    "welcome": "Welcome",
+    "footerCopyright": "© {{year}} Prosjektmarkedet. Alle rettigheter forbeholdt."
+  },
+  "sidebar": {
+    "dashboard": "Dashboard",
+    "profile": "Profile",
+    "settings": "Settings",
+    "logout": "Logout"
+  },
+    "dashboardHeaderCard": {
+    "headerCardTitleActiveProjects": "Active Projects",
+    "headerCardTitleTotalOffers": "Total Offers",
+    "headerCardTitleCompleted": "Completed"
+  },
+  "dashboardCardConstants": {
+    "dashboardNewProjectButtonText": "Post new project",
+    "dashboardCardDatePosted": "Posted:",
+    "dashboardCardButtonText": "View details",
+    "dashboardTitleActiveProjects" : "Active Projects",
+    "dashboardCardNoActiveProject" : "No Active Projects",
+    "dashboardNoProjectImageAlt" : "Add project image"
+  }
+}
